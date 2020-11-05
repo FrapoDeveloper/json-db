@@ -1,38 +1,38 @@
 {
     "cursos" : [
             {
-              key :1,
-              title :"Curso de OpenGL",
-              img :  "https://i.ytimg.com/vi/v7d3ic_lmGw/maxresdefault.jpg",
-              price : "65",
-              profesor : "Fran Espino"
+              "key" :1,
+              "title" :"Curso de OpenGL",
+              "img" :  "https://i.ytimg.com/vi/v7d3ic_lmGw/maxresdefault.jpg",
+              "price" : "65",
+              "profesor" : "Fran Espino"
             },{
-              key :2,
-              title :"Java Spring",
-              img :  "https://edteam-media.s3.amazonaws.com/courses/medium/6cbc514c-1e04-4bf4-8beb-fa595f363d9d.png",
-              price : "48",
-              profesor : "Luis Calla"
+              "key" :2,
+              "title" :"Java Spring",
+              "img" :  "https://edteam-media.s3.amazonaws.com/courses/medium/6cbc514c-1e04-4bf4-8beb-fa595f363d9d.png",
+              "price" : "48",
+              "profesor" : "Luis Calla"
         
             },{
-              key :3,
-              title :"Curso de Go",
-              img :  "https://edteam-media.s3.amazonaws.com/courses/big/e737f2e3-92b3-400e-8d82-1b19e0277012.png",
-              price : "52",
-              profesor : "Jose Angel"
+              "key" :3,
+              "title" :"Curso de Go",
+              "img" :  "https://edteam-media.s3.amazonaws.com/courses/big/e737f2e3-92b3-400e-8d82-1b19e0277012.png",
+              "price" : "52",
+              "profesor" : "Jose Angel"
         
             },{
-               key :4,
-              title :"App PWA",
-              img :  "https://edteam-media.s3.amazonaws.com/courses/big/084a20f8-e327-47ce-a073-1df1f90e4a74.jpg",
-              price : "28",
-              profesor : "Richard Espino"
+               "key" :4,
+              "title" :"App PWA",
+              "img" :  "https://edteam-media.s3.amazonaws.com/courses/big/084a20f8-e327-47ce-a073-1df1f90e4a74.jpg",
+              "price" : "28",
+              "profesor" : "Richard Espino"
         
             },{
-               key :5,
-              title :"Ayas y JS",
-              img :  "https://edteam-media.s3.amazonaws.com/courses/big/358b2db1-a529-4892-92a6-23bf97092c32.jpg",
-              price : "63",
-              profesor : "Fabian Julca"
+              "key" :5,
+              "title" :"Ayas y JS",
+              "img" :  "https://edteam-media.s3.amazonaws.com/courses/big/358b2db1-a529-4892-92a6-23bf97092c32.jpg",
+              "price" : "63",
+              "profesor" : "Fabian Julca"
         
             }
         
